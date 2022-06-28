@@ -13,6 +13,18 @@
 
 Build a simple laravel development environment with docker-compose. Compatible with Windows(WSL2), macOS(M1) and Linux.
 
+## 設計関連
+
+### ワイヤーフレーム
+https://www.figma.com/file/sgHSD66py7nn1UnRNaXJwG/BookManager?node-id=0%3A1
+
+### URL設計
+https://docs.google.com/spreadsheets/d/12WOwZPHyN9s9o6vny5GEdCS0czMoN3oHoe0eA00YZuM/edit#gid=0
+
+### ER図
+https://drive.google.com/file/d/1w_IIsu-Xn_gExbM6aSR7XnbQ0Gs-lnCV/view?usp=sharing
+
+
 ## Usage
 
 1. Click [Use this template](https://github.com/ucan-lab/docker-laravel/generate)
